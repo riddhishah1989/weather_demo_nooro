@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherAppNooro</string>
+    <string name="no_data_available">No weather data available</string>
+    <string name="failed_to_fetch_weather">Failed to fetch weather</string>
+    <string name="network_error">Network error: %1$s</string>
+    <string name="no_internet_connection_found">No Internet Connection Found.</string>
+    <string name="search_location">Search Location</string>
+    <string name="no_city_selected">No City Selected</string>
+    <string name="search_for_city">Please Search For A City</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv">UV</string>
+    <string name="feels_like">Feels Like</string>
+</resources>

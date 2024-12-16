@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#71797E</color>
+    <color name="rounded_box_color">#F2F2F2</color>
+    <color name="colorPrimary">#654A97</color>
+    <color name="colorPrimaryDark">#563A87</color>
+    <color name="colorAccent">#FFCB60</color>
+    <color name="backgroundColor">@color/white</color>
+    <color name="search_text_color">#C4C4C4</color>
+    <color name="text_color">#2C2C2C</color>
+        <color name="weather_box_text_color">#9A9A9A</color>
+</resources>
